@@ -1,0 +1,993 @@
+CountryA,CountryB,meanScoreA,meanScoreB
+Egypt,Morocco,0.27,0.64
+Egypt,Nigeria,1.25,1.0
+Egypt,Senegal,1.1,0.7
+Egypt,Tunisia,0.75,1.06
+Egypt,Australia,2.0,2.0
+Egypt,Iran,3.0,2.0
+Egypt,Japan,2.0,2.0
+Egypt,Korea Republic,0.62,1.0
+Egypt,Saudi Arabia,1.0,2.5
+Egypt,Belgium,2.5,0.0
+Egypt,Croatia,1.0,2.0
+Egypt,Denmark,1.0,2.0
+Egypt,England,1.0,2.0
+Egypt,France,1.0,2.0
+Egypt,Germany,1.0,2.0
+Egypt,Iceland,3.0,2.0
+Egypt,Poland,1.0,2.0
+Egypt,Portugal,1.0,2.0
+Egypt,Russia,2.0,2.0
+Egypt,Serbia,2.0,2.0
+Egypt,Spain,1.0,2.0
+Egypt,Sweden,2.0,2.0
+Egypt,Switzerland,1.0,2.0
+Egypt,Costa Rica,3.0,2.0
+Egypt,Mexico,0.67,2.33
+Egypt,Panama,3.0,2.0
+Egypt,Argentina,1.0,2.0
+Egypt,Brazil,1.0,2.0
+Egypt,Colombia,2.0,2.0
+Egypt,Peru,3.0,2.0
+Egypt,Uruguay,1.0,2.0
+Morocco,Egypt,0.64,0.27
+Morocco,Nigeria,1.5,1.5
+Morocco,Senegal,1.42,0.25
+Morocco,Tunisia,1.06,0.76
+Morocco,Australia,2.0,2.0
+Morocco,Iran,3.0,2.0
+Morocco,Japan,2.0,2.0
+Morocco,Korea Republic,2.0,1.33
+Morocco,Saudi Arabia,2.0,2.0
+Morocco,Belgium,1.0,2.0
+Morocco,Croatia,1.0,2.0
+Morocco,Denmark,1.0,2.0
+Morocco,England,1.0,2.0
+Morocco,France,1.25,2.5
+Morocco,Germany,1.0,2.0
+Morocco,Iceland,3.0,2.0
+Morocco,Poland,1.0,2.0
+Morocco,Portugal,1.0,2.0
+Morocco,Russia,2.0,2.0
+Morocco,Serbia,2.0,2.0
+Morocco,Spain,1.0,2.0
+Morocco,Sweden,2.0,2.0
+Morocco,Switzerland,1.0,2.0
+Morocco,Costa Rica,3.0,2.0
+Morocco,Mexico,2.0,2.0
+Morocco,Panama,3.0,2.0
+Morocco,Argentina,0.5,2.0
+Morocco,Brazil,1.0,2.0
+Morocco,Colombia,2.0,2.0
+Morocco,Peru,3.0,2.0
+Morocco,Uruguay,1.0,2.0
+Nigeria,Egypt,1.0,1.25
+Nigeria,Morocco,1.5,1.5
+Nigeria,Senegal,1.44,1.11
+Nigeria,Tunisia,1.25,1.25
+Nigeria,Australia,2.0,2.0
+Nigeria,Iran,3.0,2.0
+Nigeria,Japan,2.0,2.0
+Nigeria,Korea Republic,1.5,2.0
+Nigeria,Saudi Arabia,2.0,2.0
+Nigeria,Belgium,1.0,2.0
+Nigeria,Croatia,1.0,2.0
+Nigeria,Denmark,1.0,2.0
+Nigeria,England,0.0,0.5
+Nigeria,France,1.0,2.0
+Nigeria,Germany,1.0,2.0
+Nigeria,Iceland,3.0,2.0
+Nigeria,Poland,1.0,2.0
+Nigeria,Portugal,1.0,2.0
+Nigeria,Russia,2.0,2.0
+Nigeria,Serbia,2.0,2.0
+Nigeria,Spain,1.5,2.5
+Nigeria,Sweden,2.0,2.0
+Nigeria,Switzerland,1.0,2.0
+Nigeria,Costa Rica,3.0,2.0
+Nigeria,Mexico,2.0,2.0
+Nigeria,Panama,3.0,2.0
+Nigeria,Argentina,1.5,1.62
+Nigeria,Brazil,1.0,2.0
+Nigeria,Colombia,0.25,1.0
+Nigeria,Peru,3.0,2.0
+Nigeria,Uruguay,1.0,2.0
+Senegal,Egypt,0.7,1.1
+Senegal,Morocco,0.25,1.42
+Senegal,Nigeria,1.11,1.44
+Senegal,Tunisia,0.45,1.36
+Senegal,Australia,2.0,1.0
+Senegal,Iran,3.0,1.0
+Senegal,Japan,2.0,1.0
+Senegal,Korea Republic,2.0,1.0
+Senegal,Saudi Arabia,2.0,1.0
+Senegal,Belgium,1.0,1.0
+Senegal,Croatia,1.0,1.0
+Senegal,Denmark,1.0,1.0
+Senegal,England,1.0,1.0
+Senegal,France,1.0,1.0
+Senegal,Germany,1.0,1.0
+Senegal,Iceland,3.0,1.0
+Senegal,Poland,1.0,1.0
+Senegal,Portugal,1.0,1.0
+Senegal,Russia,2.0,1.0
+Senegal,Serbia,2.0,1.0
+Senegal,Spain,1.0,1.0
+Senegal,Sweden,2.0,1.0
+Senegal,Switzerland,1.0,1.0
+Senegal,Costa Rica,3.0,1.0
+Senegal,Mexico,2.0,1.0
+Senegal,Panama,3.0,1.0
+Senegal,Argentina,1.0,1.0
+Senegal,Brazil,1.0,1.0
+Senegal,Colombia,2.0,1.0
+Senegal,Peru,3.0,1.0
+Senegal,Uruguay,1.0,1.0
+Tunisia,Egypt,1.06,0.75
+Tunisia,Morocco,0.76,1.06
+Tunisia,Nigeria,1.25,1.25
+Tunisia,Senegal,1.36,0.45
+Tunisia,Australia,2.0,3.0
+Tunisia,Iran,3.0,3.0
+Tunisia,Japan,0.0,1.5
+Tunisia,Korea Republic,0.5,0.0
+Tunisia,Saudi Arabia,2.0,3.0
+Tunisia,Belgium,1.0,1.0
+Tunisia,Croatia,1.0,3.0
+Tunisia,Denmark,1.0,3.0
+Tunisia,England,0.5,1.5
+Tunisia,France,1.0,1.67
+Tunisia,Germany,1.0,3.0
+Tunisia,Iceland,3.0,3.0
+Tunisia,Poland,1.0,3.0
+Tunisia,Portugal,1.0,3.0
+Tunisia,Russia,2.0,3.0
+Tunisia,Serbia,2.0,3.0
+Tunisia,Spain,1.0,3.0
+Tunisia,Sweden,2.0,3.0
+Tunisia,Switzerland,1.0,3.0
+Tunisia,Costa Rica,3.0,3.0
+Tunisia,Mexico,2.0,3.0
+Tunisia,Panama,3.0,3.0
+Tunisia,Argentina,1.0,3.0
+Tunisia,Brazil,1.0,3.0
+Tunisia,Colombia,2.0,3.0
+Tunisia,Peru,3.0,3.0
+Tunisia,Uruguay,1.0,3.0
+Australia,Egypt,2.0,2.0
+Australia,Morocco,2.0,2.0
+Australia,Nigeria,2.0,2.0
+Australia,Senegal,1.0,2.0
+Australia,Tunisia,3.0,2.0
+Australia,Iran,1.5,1.5
+Australia,Japan,1.0,1.42
+Australia,Korea Republic,0.8,1.13
+Australia,Saudi Arabia,2.14,1.43
+Australia,Belgium,1.0,2.0
+Australia,Croatia,1.0,1.83
+Australia,Denmark,0.67,1.67
+Australia,England,1.33,1.33
+Australia,France,0.5,2.0
+Australia,Germany,1.8,2.8
+Australia,Iceland,3.0,2.0
+Australia,Poland,1.0,2.0
+Australia,Portugal,1.0,2.0
+Australia,Russia,2.0,2.0
+Australia,Serbia,2.0,2.0
+Australia,Spain,1.0,2.0
+Australia,Sweden,2.0,2.0
+Australia,Switzerland,1.0,2.0
+Australia,Costa Rica,3.0,2.0
+Australia,Mexico,2.0,2.0
+Australia,Panama,3.0,2.0
+Australia,Argentina,0.5,1.83
+Australia,Brazil,0.17,3.0
+Australia,Colombia,1.0,2.0
+Australia,Peru,3.0,2.0
+Australia,Uruguay,0.57,1.14
+Iran,Egypt,2.0,3.0
+Iran,Morocco,2.0,3.0
+Iran,Nigeria,2.0,3.0
+Iran,Senegal,1.0,3.0
+Iran,Tunisia,3.0,3.0
+Iran,Australia,1.5,1.5
+Iran,Japan,1.12,1.25
+Iran,Korea Republic,1.17,0.94
+Iran,Saudi Arabia,1.3,1.1
+Iran,Belgium,1.0,3.0
+Iran,Croatia,1.0,3.0
+Iran,Denmark,1.0,3.0
+Iran,England,1.0,3.0
+Iran,France,1.0,3.0
+Iran,Germany,0.0,2.0
+Iran,Iceland,3.0,3.0
+Iran,Poland,1.0,3.0
+Iran,Portugal,1.0,3.0
+Iran,Russia,1.0,0.5
+Iran,Serbia,2.0,3.0
+Iran,Spain,1.0,3.0
+Iran,Sweden,2.0,3.0
+Iran,Switzerland,1.0,3.0
+Iran,Costa Rica,3.0,3.0
+Iran,Mexico,2.0,3.0
+Iran,Panama,3.0,3.0
+Iran,Argentina,1.0,3.0
+Iran,Brazil,1.0,3.0
+Iran,Colombia,2.0,3.0
+Iran,Peru,3.0,3.0
+Iran,Uruguay,1.0,3.0
+Japan,Egypt,2.0,2.0
+Japan,Morocco,2.0,2.0
+Japan,Nigeria,2.0,2.0
+Japan,Senegal,1.0,2.0
+Japan,Tunisia,1.5,0.0
+Japan,Australia,1.42,1.0
+Japan,Iran,1.25,1.12
+Japan,Korea Republic,0.96,1.11
+Japan,Saudi Arabia,1.83,0.83
+Japan,Belgium,1.8,1.0
+Japan,Croatia,1.0,2.0
+Japan,Denmark,1.0,2.0
+Japan,England,1.0,1.67
+Japan,France,0.83,2.33
+Japan,Germany,1.0,2.5
+Japan,Iceland,3.0,1.5
+Japan,Poland,3.5,0.0
+Japan,Portugal,1.0,2.0
+Japan,Russia,2.0,2.0
+Japan,Serbia,0.43,1.0
+Japan,Spain,1.0,2.0
+Japan,Sweden,1.0,1.25
+Japan,Switzerland,1.0,2.0
+Japan,Costa Rica,2.33,0.67
+Japan,Mexico,2.0,2.0
+Japan,Panama,3.0,2.0
+Japan,Argentina,0.67,2.33
+Japan,Brazil,0.45,3.0
+Japan,Colombia,2.0,2.0
+Japan,Peru,0.8,0.8
+Japan,Uruguay,1.0,2.0
+Korea Republic,Egypt,1.0,0.62
+Korea Republic,Morocco,1.33,2.0
+Korea Republic,Nigeria,2.0,1.5
+Korea Republic,Senegal,1.0,2.0
+Korea Republic,Tunisia,0.0,0.5
+Korea Republic,Australia,1.13,0.8
+Korea Republic,Iran,0.94,1.17
+Korea Republic,Japan,1.11,0.96
+Korea Republic,Saudi Arabia,0.89,0.89
+Korea Republic,Belgium,0.5,1.5
+Korea Republic,Croatia,1.0,1.57
+Korea Republic,Denmark,1.0,2.0
+Korea Republic,England,1.0,2.0
+Korea Republic,France,1.0,3.0
+Korea Republic,Germany,1.67,1.67
+Korea Republic,Iceland,3.0,2.0
+Korea Republic,Poland,1.0,2.0
+Korea Republic,Portugal,1.0,2.0
+Korea Republic,Russia,2.0,2.0
+Korea Republic,Serbia,0.78,0.89
+Korea Republic,Spain,0.83,2.67
+Korea Republic,Sweden,1.0,1.67
+Korea Republic,Switzerland,1.0,1.5
+Korea Republic,Costa Rica,1.14,1.29
+Korea Republic,Mexico,0.83,1.5
+Korea Republic,Panama,3.0,2.0
+Korea Republic,Argentina,0.5,2.5
+Korea Republic,Brazil,1.0,2.0
+Korea Republic,Colombia,1.67,1.0
+Korea Republic,Peru,3.0,2.0
+Korea Republic,Uruguay,0.33,1.67
+Saudi Arabia,Egypt,2.5,1.0
+Saudi Arabia,Morocco,2.0,2.0
+Saudi Arabia,Nigeria,2.0,2.0
+Saudi Arabia,Senegal,1.0,2.0
+Saudi Arabia,Tunisia,3.0,2.0
+Saudi Arabia,Australia,1.43,2.14
+Saudi Arabia,Iran,1.1,1.3
+Saudi Arabia,Japan,0.83,1.83
+Saudi Arabia,Korea Republic,0.89,0.89
+Saudi Arabia,Belgium,1.0,2.0
+Saudi Arabia,Croatia,1.0,2.0
+Saudi Arabia,Denmark,1.0,2.0
+Saudi Arabia,England,1.0,2.0
+Saudi Arabia,France,1.0,2.0
+Saudi Arabia,Germany,0.0,5.5
+Saudi Arabia,Iceland,1.0,0.25
+Saudi Arabia,Poland,0.5,1.75
+Saudi Arabia,Portugal,0.0,3.0
+Saudi Arabia,Russia,2.0,2.0
+Saudi Arabia,Serbia,2.0,2.0
+Saudi Arabia,Spain,0.67,3.0
+Saudi Arabia,Sweden,2.0,2.0
+Saudi Arabia,Switzerland,1.0,2.0
+Saudi Arabia,Costa Rica,1.25,2.0
+Saudi Arabia,Mexico,0.4,2.8
+Saudi Arabia,Panama,3.0,2.0
+Saudi Arabia,Argentina,0.5,1.5
+Saudi Arabia,Brazil,0.67,4.0
+Saudi Arabia,Colombia,2.0,2.0
+Saudi Arabia,Peru,3.0,2.0
+Saudi Arabia,Uruguay,1.0,2.0
+Belgium,Egypt,0.0,2.5
+Belgium,Morocco,2.0,1.0
+Belgium,Nigeria,2.0,1.0
+Belgium,Senegal,1.0,1.0
+Belgium,Tunisia,1.0,1.0
+Belgium,Australia,2.0,1.0
+Belgium,Iran,3.0,1.0
+Belgium,Japan,1.0,1.8
+Belgium,Korea Republic,1.5,0.5
+Belgium,Saudi Arabia,2.0,1.0
+Belgium,Croatia,0.71,1.29
+Belgium,Denmark,1.33,2.67
+Belgium,England,0.25,1.0
+Belgium,France,1.12,1.5
+Belgium,Germany,0.5,2.0
+Belgium,Iceland,3.0,1.0
+Belgium,Poland,1.0,1.2
+Belgium,Portugal,0.75,2.25
+Belgium,Russia,1.8,1.0
+Belgium,Serbia,1.33,1.0
+Belgium,Spain,0.5,2.5
+Belgium,Sweden,1.25,0.25
+Belgium,Switzerland,1.0,1.0
+Belgium,Costa Rica,3.0,1.0
+Belgium,Mexico,2.0,1.0
+Belgium,Panama,3.0,1.0
+Belgium,Argentina,1.0,1.0
+Belgium,Brazil,1.0,1.0
+Belgium,Colombia,2.0,1.0
+Belgium,Peru,3.0,1.0
+Belgium,Uruguay,1.0,1.0
+Croatia,Egypt,2.0,1.0
+Croatia,Morocco,2.0,1.0
+Croatia,Nigeria,2.0,1.0
+Croatia,Senegal,1.0,1.0
+Croatia,Tunisia,3.0,1.0
+Croatia,Australia,1.83,1.0
+Croatia,Iran,3.0,1.0
+Croatia,Japan,2.0,1.0
+Croatia,Korea Republic,1.57,1.0
+Croatia,Saudi Arabia,2.0,1.0
+Croatia,Belgium,1.29,0.71
+Croatia,Denmark,1.4,1.2
+Croatia,England,1.43,2.57
+Croatia,France,0.6,1.8
+Croatia,Germany,1.6,1.2
+Croatia,Iceland,1.83,0.33
+Croatia,Poland,1.4,0.6
+Croatia,Portugal,0.0,1.75
+Croatia,Russia,1.0,0.33
+Croatia,Serbia,1.25,0.75
+Croatia,Spain,1.0,1.17
+Croatia,Sweden,1.25,1.0
+Croatia,Switzerland,1.33,2.0
+Croatia,Costa Rica,3.0,1.0
+Croatia,Mexico,1.6,1.2
+Croatia,Panama,3.0,1.0
+Croatia,Argentina,1.0,1.25
+Croatia,Brazil,0.67,1.67
+Croatia,Colombia,2.0,1.0
+Croatia,Peru,3.0,1.0
+Croatia,Uruguay,1.0,1.0
+Denmark,Egypt,2.0,1.0
+Denmark,Morocco,2.0,1.0
+Denmark,Nigeria,2.0,1.0
+Denmark,Senegal,1.0,1.0
+Denmark,Tunisia,3.0,1.0
+Denmark,Australia,1.67,0.67
+Denmark,Iran,3.0,1.0
+Denmark,Japan,2.0,1.0
+Denmark,Korea Republic,2.0,1.0
+Denmark,Saudi Arabia,2.0,1.0
+Denmark,Belgium,2.67,1.33
+Denmark,Croatia,1.2,1.4
+Denmark,England,1.0,1.38
+Denmark,France,0.78,1.44
+Denmark,Germany,1.11,1.22
+Denmark,Iceland,2.25,0.25
+Denmark,Poland,2.57,1.14
+Denmark,Portugal,1.5,1.7
+Denmark,Russia,2.0,1.0
+Denmark,Serbia,2.5,0.5
+Denmark,Spain,0.5,1.88
+Denmark,Sweden,0.81,1.12
+Denmark,Switzerland,1.5,1.0
+Denmark,Costa Rica,3.0,1.0
+Denmark,Mexico,2.0,1.0
+Denmark,Panama,3.0,1.0
+Denmark,Argentina,1.5,0.5
+Denmark,Brazil,1.5,3.0
+Denmark,Colombia,2.0,1.0
+Denmark,Peru,3.0,1.0
+Denmark,Uruguay,1.0,1.0
+England,Egypt,2.0,1.0
+England,Morocco,2.0,1.0
+England,Nigeria,0.5,0.0
+England,Senegal,1.0,1.0
+England,Tunisia,1.5,0.5
+England,Australia,1.33,1.33
+England,Iran,3.0,1.0
+England,Japan,1.67,1.0
+England,Korea Republic,2.0,1.0
+England,Saudi Arabia,2.0,1.0
+England,Belgium,1.0,0.25
+England,Croatia,2.57,1.43
+England,Denmark,1.38,1.0
+England,France,1.0,1.09
+England,Germany,1.14,1.29
+England,Iceland,3.0,1.0
+England,Poland,1.75,0.58
+England,Portugal,1.38,1.0
+England,Russia,2.0,1.2
+England,Serbia,2.0,1.0
+England,Spain,0.67,1.0
+England,Sweden,1.36,1.64
+England,Switzerland,2.11,0.78
+England,Costa Rica,3.0,1.0
+England,Mexico,2.0,1.0
+England,Panama,3.0,1.0
+England,Argentina,1.6,1.2
+England,Brazil,0.92,1.17
+England,Colombia,1.67,0.67
+England,Peru,3.0,1.0
+England,Uruguay,1.0,1.25
+France,Egypt,2.0,1.0
+France,Morocco,2.5,1.25
+France,Nigeria,2.0,1.0
+France,Senegal,1.0,1.0
+France,Tunisia,1.67,1.0
+France,Australia,2.0,0.5
+France,Iran,3.0,1.0
+France,Japan,2.33,0.83
+France,Korea Republic,3.0,1.0
+France,Saudi Arabia,2.0,1.0
+France,Belgium,1.5,1.12
+France,Croatia,1.8,0.6
+France,Denmark,1.44,0.78
+France,England,1.09,1.0
+France,Germany,1.45,0.64
+France,Iceland,2.83,1.5
+France,Poland,1.14,0.29
+France,Portugal,1.71,0.43
+France,Russia,2.0,1.5
+France,Serbia,1.83,0.67
+France,Spain,1.07,1.14
+France,Sweden,1.18,1.0
+France,Switzerland,1.5,0.75
+France,Costa Rica,3.0,1.0
+France,Mexico,2.0,1.0
+France,Panama,3.0,1.0
+France,Argentina,1.0,1.0
+France,Brazil,1.0,1.11
+France,Colombia,2.0,1.0
+France,Peru,3.0,1.0
+France,Uruguay,0.0,0.2
+Germany,Egypt,2.0,1.0
+Germany,Morocco,2.0,1.0
+Germany,Nigeria,2.0,1.0
+Germany,Senegal,1.0,1.0
+Germany,Tunisia,3.0,1.0
+Germany,Australia,2.8,1.8
+Germany,Iran,2.0,0.0
+Germany,Japan,2.5,1.0
+Germany,Korea Republic,1.67,1.67
+Germany,Saudi Arabia,5.5,0.0
+Germany,Belgium,2.0,0.5
+Germany,Croatia,1.2,1.6
+Germany,Denmark,1.22,1.11
+Germany,England,1.29,1.14
+Germany,France,0.64,1.45
+Germany,Iceland,1.5,0.0
+Germany,Poland,1.25,0.62
+Germany,Portugal,1.67,1.0
+Germany,Russia,1.71,0.71
+Germany,Serbia,2.0,1.0
+Germany,Spain,1.0,1.0
+Germany,Sweden,2.86,1.43
+Germany,Switzerland,2.71,1.14
+Germany,Costa Rica,3.0,1.0
+Germany,Mexico,2.2,1.2
+Germany,Panama,3.0,1.0
+Germany,Argentina,1.36,1.45
+Germany,Brazil,2.0,2.2
+Germany,Colombia,2.5,1.25
+Germany,Peru,3.0,1.0
+Germany,Uruguay,3.4,1.4
+Iceland,Egypt,2.0,3.0
+Iceland,Morocco,2.0,3.0
+Iceland,Nigeria,2.0,3.0
+Iceland,Senegal,1.0,3.0
+Iceland,Tunisia,3.0,3.0
+Iceland,Australia,2.0,3.0
+Iceland,Iran,3.0,3.0
+Iceland,Japan,1.5,3.0
+Iceland,Korea Republic,2.0,3.0
+Iceland,Saudi Arabia,0.25,1.0
+Iceland,Belgium,1.0,3.0
+Iceland,Croatia,0.33,1.83
+Iceland,Denmark,0.25,2.25
+Iceland,England,1.0,3.0
+Iceland,France,1.5,2.83
+Iceland,Germany,0.0,1.5
+Iceland,Poland,1.25,2.25
+Iceland,Portugal,1.67,3.0
+Iceland,Russia,0.33,1.33
+Iceland,Serbia,2.0,3.0
+Iceland,Spain,0.8,0.8
+Iceland,Sweden,0.89,2.44
+Iceland,Switzerland,1.0,2.25
+Iceland,Costa Rica,3.0,3.0
+Iceland,Mexico,2.0,3.0
+Iceland,Panama,3.0,3.0
+Iceland,Argentina,1.0,3.0
+Iceland,Brazil,1.0,3.0
+Iceland,Colombia,2.0,3.0
+Iceland,Peru,3.0,3.0
+Iceland,Uruguay,1.0,3.0
+Poland,Egypt,2.0,1.0
+Poland,Morocco,2.0,1.0
+Poland,Nigeria,2.0,1.0
+Poland,Senegal,1.0,1.0
+Poland,Tunisia,3.0,1.0
+Poland,Australia,2.0,1.0
+Poland,Iran,3.0,1.0
+Poland,Japan,0.0,3.5
+Poland,Korea Republic,2.0,1.0
+Poland,Saudi Arabia,1.75,0.5
+Poland,Belgium,1.2,1.0
+Poland,Croatia,0.6,1.4
+Poland,Denmark,1.14,2.57
+Poland,England,0.58,1.75
+Poland,France,0.29,1.14
+Poland,Germany,0.62,1.25
+Poland,Iceland,2.25,1.25
+Poland,Portugal,1.0,1.6
+Poland,Russia,1.5,1.5
+Poland,Serbia,1.71,1.14
+Poland,Spain,0.5,3.0
+Poland,Sweden,0.62,2.25
+Poland,Switzerland,1.0,1.0
+Poland,Costa Rica,3.0,1.0
+Poland,Mexico,0.5,0.75
+Poland,Panama,3.0,1.0
+Poland,Argentina,1.0,1.5
+Poland,Brazil,1.0,1.0
+Poland,Colombia,1.0,2.0
+Poland,Peru,3.0,1.0
+Poland,Uruguay,0.67,1.0
+Portugal,Egypt,2.0,1.0
+Portugal,Morocco,2.0,1.0
+Portugal,Nigeria,2.0,1.0
+Portugal,Senegal,1.0,1.0
+Portugal,Tunisia,3.0,1.0
+Portugal,Australia,2.0,1.0
+Portugal,Iran,3.0,1.0
+Portugal,Japan,2.0,1.0
+Portugal,Korea Republic,2.0,1.0
+Portugal,Saudi Arabia,3.0,0.0
+Portugal,Belgium,2.25,0.75
+Portugal,Croatia,1.75,0.0
+Portugal,Denmark,1.7,1.5
+Portugal,England,1.0,1.38
+Portugal,France,0.43,1.71
+Portugal,Germany,1.0,1.67
+Portugal,Iceland,3.0,1.67
+Portugal,Poland,1.6,1.0
+Portugal,Russia,1.57,0.43
+Portugal,Serbia,1.5,1.0
+Portugal,Spain,1.0,0.89
+Portugal,Sweden,1.57,1.29
+Portugal,Switzerland,0.8,1.0
+Portugal,Costa Rica,3.0,1.0
+Portugal,Mexico,1.75,1.0
+Portugal,Panama,3.0,1.0
+Portugal,Argentina,1.0,1.0
+Portugal,Brazil,1.33,1.83
+Portugal,Colombia,2.0,1.0
+Portugal,Peru,3.0,1.0
+Portugal,Uruguay,1.0,1.0
+Russia,Egypt,2.0,2.0
+Russia,Morocco,2.0,2.0
+Russia,Nigeria,2.0,2.0
+Russia,Senegal,1.0,2.0
+Russia,Tunisia,3.0,2.0
+Russia,Australia,2.0,2.0
+Russia,Iran,0.5,1.0
+Russia,Japan,2.0,2.0
+Russia,Korea Republic,2.0,2.0
+Russia,Saudi Arabia,2.0,2.0
+Russia,Belgium,1.0,1.8
+Russia,Croatia,0.33,1.0
+Russia,Denmark,1.0,2.0
+Russia,England,1.2,2.0
+Russia,France,1.5,2.0
+Russia,Germany,0.71,1.71
+Russia,Iceland,1.33,0.33
+Russia,Poland,1.5,1.5
+Russia,Portugal,0.43,1.57
+Russia,Serbia,1.0,0.73
+Russia,Spain,0.71,1.86
+Russia,Sweden,1.29,1.14
+Russia,Switzerland,2.6,0.8
+Russia,Costa Rica,2.5,2.5
+Russia,Mexico,2.0,2.0
+Russia,Panama,3.0,2.0
+Russia,Argentina,0.75,1.75
+Russia,Brazil,0.8,2.2
+Russia,Colombia,2.0,2.0
+Russia,Peru,3.0,2.0
+Russia,Uruguay,1.0,2.0
+Serbia,Egypt,2.0,2.0
+Serbia,Morocco,2.0,2.0
+Serbia,Nigeria,2.0,2.0
+Serbia,Senegal,1.0,2.0
+Serbia,Tunisia,3.0,2.0
+Serbia,Australia,2.0,2.0
+Serbia,Iran,3.0,2.0
+Serbia,Japan,1.0,0.43
+Serbia,Korea Republic,0.89,0.78
+Serbia,Saudi Arabia,2.0,2.0
+Serbia,Belgium,1.0,1.33
+Serbia,Croatia,0.75,1.25
+Serbia,Denmark,0.5,2.5
+Serbia,England,1.0,2.0
+Serbia,France,0.67,1.83
+Serbia,Germany,1.0,2.0
+Serbia,Iceland,3.0,2.0
+Serbia,Poland,1.14,1.71
+Serbia,Portugal,1.0,1.5
+Serbia,Russia,0.73,1.0
+Serbia,Spain,0.83,1.67
+Serbia,Sweden,1.5,1.0
+Serbia,Switzerland,1.25,1.0
+Serbia,Costa Rica,3.0,2.0
+Serbia,Mexico,2.0,2.0
+Serbia,Panama,3.0,2.0
+Serbia,Argentina,1.0,2.0
+Serbia,Brazil,1.0,2.0
+Serbia,Colombia,2.0,2.0
+Serbia,Peru,3.0,2.0
+Serbia,Uruguay,1.0,2.0
+Spain,Egypt,2.0,1.0
+Spain,Morocco,2.0,1.0
+Spain,Nigeria,2.5,1.5
+Spain,Senegal,1.0,1.0
+Spain,Tunisia,3.0,1.0
+Spain,Australia,2.0,1.0
+Spain,Iran,3.0,1.0
+Spain,Japan,2.0,1.0
+Spain,Korea Republic,2.67,0.83
+Spain,Saudi Arabia,3.0,0.67
+Spain,Belgium,2.5,0.5
+Spain,Croatia,1.17,1.0
+Spain,Denmark,1.88,0.5
+Spain,England,1.0,0.67
+Spain,France,1.14,1.07
+Spain,Germany,1.0,1.0
+Spain,Iceland,0.8,0.8
+Spain,Poland,3.0,0.5
+Spain,Portugal,0.89,1.0
+Spain,Russia,1.86,0.71
+Spain,Serbia,1.67,0.83
+Spain,Sweden,2.0,0.8
+Spain,Switzerland,1.0,1.0
+Spain,Costa Rica,3.0,1.0
+Spain,Mexico,1.0,0.67
+Spain,Panama,3.0,1.0
+Spain,Argentina,1.4,1.8
+Spain,Brazil,1.0,1.0
+Spain,Colombia,2.0,1.0
+Spain,Peru,3.0,1.0
+Spain,Uruguay,1.83,0.83
+Sweden,Egypt,2.0,2.0
+Sweden,Morocco,2.0,2.0
+Sweden,Nigeria,2.0,2.0
+Sweden,Senegal,1.0,2.0
+Sweden,Tunisia,3.0,2.0
+Sweden,Australia,2.0,2.0
+Sweden,Iran,3.0,2.0
+Sweden,Japan,1.25,1.0
+Sweden,Korea Republic,1.67,1.0
+Sweden,Saudi Arabia,2.0,2.0
+Sweden,Belgium,0.25,1.25
+Sweden,Croatia,1.0,1.25
+Sweden,Denmark,1.12,0.81
+Sweden,England,1.64,1.36
+Sweden,France,1.0,1.18
+Sweden,Germany,1.43,2.86
+Sweden,Iceland,2.44,0.89
+Sweden,Poland,2.25,0.62
+Sweden,Portugal,1.29,1.57
+Sweden,Russia,1.14,1.29
+Sweden,Serbia,1.0,1.5
+Sweden,Spain,0.8,2.0
+Sweden,Switzerland,1.17,1.67
+Sweden,Costa Rica,1.0,1.0
+Sweden,Mexico,2.0,2.0
+Sweden,Panama,3.0,2.0
+Sweden,Argentina,1.0,2.0
+Sweden,Brazil,0.33,1.5
+Sweden,Colombia,1.0,1.0
+Sweden,Peru,3.0,2.0
+Sweden,Uruguay,1.0,2.0
+Switzerland,Egypt,2.0,1.0
+Switzerland,Morocco,2.0,1.0
+Switzerland,Nigeria,2.0,1.0
+Switzerland,Senegal,1.0,1.0
+Switzerland,Tunisia,3.0,1.0
+Switzerland,Australia,2.0,1.0
+Switzerland,Iran,3.0,1.0
+Switzerland,Japan,2.0,1.0
+Switzerland,Korea Republic,1.5,1.0
+Switzerland,Saudi Arabia,2.0,1.0
+Switzerland,Belgium,1.0,1.0
+Switzerland,Croatia,2.0,1.33
+Switzerland,Denmark,1.0,1.5
+Switzerland,England,0.78,2.11
+Switzerland,France,0.75,1.5
+Switzerland,Germany,1.14,2.71
+Switzerland,Iceland,2.25,1.0
+Switzerland,Poland,1.0,1.0
+Switzerland,Portugal,1.0,0.8
+Switzerland,Russia,0.8,2.6
+Switzerland,Serbia,1.0,1.25
+Switzerland,Spain,1.0,1.0
+Switzerland,Sweden,1.67,1.17
+Switzerland,Costa Rica,3.0,1.0
+Switzerland,Mexico,2.0,1.0
+Switzerland,Panama,3.0,1.0
+Switzerland,Argentina,0.75,1.5
+Switzerland,Brazil,1.0,1.0
+Switzerland,Colombia,1.33,2.33
+Switzerland,Peru,3.0,1.0
+Switzerland,Uruguay,1.0,1.0
+Costa Rica,Egypt,2.0,3.0
+Costa Rica,Morocco,2.0,3.0
+Costa Rica,Nigeria,2.0,3.0
+Costa Rica,Senegal,1.0,3.0
+Costa Rica,Tunisia,3.0,3.0
+Costa Rica,Australia,2.0,3.0
+Costa Rica,Iran,3.0,3.0
+Costa Rica,Japan,0.67,2.33
+Costa Rica,Korea Republic,1.29,1.14
+Costa Rica,Saudi Arabia,2.0,1.25
+Costa Rica,Belgium,1.0,3.0
+Costa Rica,Croatia,1.0,3.0
+Costa Rica,Denmark,1.0,3.0
+Costa Rica,England,1.0,3.0
+Costa Rica,France,1.0,3.0
+Costa Rica,Germany,1.0,3.0
+Costa Rica,Iceland,3.0,3.0
+Costa Rica,Poland,1.0,3.0
+Costa Rica,Portugal,1.0,3.0
+Costa Rica,Russia,2.5,2.5
+Costa Rica,Serbia,2.0,3.0
+Costa Rica,Spain,1.0,3.0
+Costa Rica,Sweden,1.0,1.0
+Costa Rica,Switzerland,1.0,3.0
+Costa Rica,Mexico,0.62,1.52
+Costa Rica,Panama,1.64,0.89
+Costa Rica,Argentina,0.67,2.0
+Costa Rica,Brazil,0.71,3.0
+Costa Rica,Colombia,0.75,2.12
+Costa Rica,Peru,0.4,2.0
+Costa Rica,Uruguay,1.56,2.0
+Mexico,Egypt,2.33,0.67
+Mexico,Morocco,2.0,2.0
+Mexico,Nigeria,2.0,2.0
+Mexico,Senegal,1.0,2.0
+Mexico,Tunisia,3.0,2.0
+Mexico,Australia,2.0,2.0
+Mexico,Iran,3.0,2.0
+Mexico,Japan,2.0,2.0
+Mexico,Korea Republic,1.5,0.83
+Mexico,Saudi Arabia,2.8,0.4
+Mexico,Belgium,1.0,2.0
+Mexico,Croatia,1.2,1.6
+Mexico,Denmark,1.0,2.0
+Mexico,England,1.0,2.0
+Mexico,France,1.0,2.0
+Mexico,Germany,1.2,2.2
+Mexico,Iceland,3.0,2.0
+Mexico,Poland,0.75,0.5
+Mexico,Portugal,1.0,1.75
+Mexico,Russia,2.0,2.0
+Mexico,Serbia,2.0,2.0
+Mexico,Spain,0.67,1.0
+Mexico,Sweden,2.0,2.0
+Mexico,Switzerland,1.0,2.0
+Mexico,Costa Rica,1.52,0.62
+Mexico,Panama,1.62,0.56
+Mexico,Argentina,0.88,1.56
+Mexico,Brazil,1.0,1.6
+Mexico,Colombia,0.75,0.9
+Mexico,Peru,1.4,1.0
+Mexico,Uruguay,1.38,1.15
+Panama,Egypt,2.0,3.0
+Panama,Morocco,2.0,3.0
+Panama,Nigeria,2.0,3.0
+Panama,Senegal,1.0,3.0
+Panama,Tunisia,3.0,3.0
+Panama,Australia,2.0,3.0
+Panama,Iran,3.0,3.0
+Panama,Japan,2.0,3.0
+Panama,Korea Republic,2.0,3.0
+Panama,Saudi Arabia,2.0,3.0
+Panama,Belgium,1.0,3.0
+Panama,Croatia,1.0,3.0
+Panama,Denmark,1.0,3.0
+Panama,England,1.0,3.0
+Panama,France,1.0,3.0
+Panama,Germany,1.0,3.0
+Panama,Iceland,3.0,3.0
+Panama,Poland,1.0,3.0
+Panama,Portugal,1.0,3.0
+Panama,Russia,2.0,3.0
+Panama,Serbia,2.0,3.0
+Panama,Spain,1.0,3.0
+Panama,Sweden,2.0,3.0
+Panama,Switzerland,1.0,3.0
+Panama,Costa Rica,0.89,1.64
+Panama,Mexico,0.56,1.62
+Panama,Argentina,1.0,3.0
+Panama,Brazil,1.0,3.0
+Panama,Colombia,1.33,2.0
+Panama,Peru,1.0,1.0
+Panama,Uruguay,1.0,3.0
+Argentina,Egypt,2.0,1.0
+Argentina,Morocco,2.0,0.5
+Argentina,Nigeria,1.62,1.5
+Argentina,Senegal,1.0,1.0
+Argentina,Tunisia,3.0,1.0
+Argentina,Australia,1.83,0.5
+Argentina,Iran,3.0,1.0
+Argentina,Japan,2.33,0.67
+Argentina,Korea Republic,2.5,0.5
+Argentina,Saudi Arabia,1.5,0.5
+Argentina,Belgium,1.0,1.0
+Argentina,Croatia,1.25,1.0
+Argentina,Denmark,0.5,1.5
+Argentina,England,1.2,1.6
+Argentina,France,1.0,1.0
+Argentina,Germany,1.45,1.36
+Argentina,Iceland,3.0,1.0
+Argentina,Poland,1.5,1.0
+Argentina,Portugal,1.0,1.0
+Argentina,Russia,1.75,0.75
+Argentina,Serbia,2.0,1.0
+Argentina,Spain,1.8,1.4
+Argentina,Sweden,2.0,1.0
+Argentina,Switzerland,1.5,0.75
+Argentina,Costa Rica,2.0,0.67
+Argentina,Mexico,1.56,0.88
+Argentina,Panama,3.0,1.0
+Argentina,Brazil,1.27,1.73
+Argentina,Colombia,1.24,0.92
+Argentina,Peru,1.74,0.63
+Argentina,Uruguay,1.56,0.89
+Brazil,Egypt,2.0,1.0
+Brazil,Morocco,2.0,1.0
+Brazil,Nigeria,2.0,1.0
+Brazil,Senegal,1.0,1.0
+Brazil,Tunisia,3.0,1.0
+Brazil,Australia,3.0,0.17
+Brazil,Iran,3.0,1.0
+Brazil,Japan,3.0,0.45
+Brazil,Korea Republic,2.0,1.0
+Brazil,Saudi Arabia,4.0,0.67
+Brazil,Belgium,1.0,1.0
+Brazil,Croatia,1.67,0.67
+Brazil,Denmark,3.0,1.5
+Brazil,England,1.17,0.92
+Brazil,France,1.11,1.0
+Brazil,Germany,2.2,2.0
+Brazil,Iceland,3.0,1.0
+Brazil,Poland,1.0,1.0
+Brazil,Portugal,1.83,1.33
+Brazil,Russia,2.2,0.8
+Brazil,Serbia,2.0,1.0
+Brazil,Spain,1.0,1.0
+Brazil,Sweden,1.5,0.33
+Brazil,Switzerland,1.0,1.0
+Brazil,Costa Rica,3.0,0.71
+Brazil,Mexico,1.6,1.0
+Brazil,Panama,3.0,1.0
+Brazil,Argentina,1.73,1.27
+Brazil,Colombia,1.22,0.5
+Brazil,Peru,1.67,0.42
+Brazil,Uruguay,1.61,1.06
+Colombia,Egypt,2.0,2.0
+Colombia,Morocco,2.0,2.0
+Colombia,Nigeria,1.0,0.25
+Colombia,Senegal,1.0,2.0
+Colombia,Tunisia,3.0,2.0
+Colombia,Australia,2.0,1.0
+Colombia,Iran,3.0,2.0
+Colombia,Japan,2.0,2.0
+Colombia,Korea Republic,1.0,1.67
+Colombia,Saudi Arabia,2.0,2.0
+Colombia,Belgium,1.0,2.0
+Colombia,Croatia,1.0,2.0
+Colombia,Denmark,1.0,2.0
+Colombia,England,0.67,1.67
+Colombia,France,1.0,2.0
+Colombia,Germany,1.25,2.5
+Colombia,Iceland,3.0,2.0
+Colombia,Poland,2.0,1.0
+Colombia,Portugal,1.0,2.0
+Colombia,Russia,2.0,2.0
+Colombia,Serbia,2.0,2.0
+Colombia,Spain,1.0,2.0
+Colombia,Sweden,1.0,1.0
+Colombia,Switzerland,2.33,1.33
+Colombia,Costa Rica,2.12,0.75
+Colombia,Mexico,0.9,0.75
+Colombia,Panama,2.0,1.33
+Colombia,Argentina,0.92,1.24
+Colombia,Brazil,0.5,1.22
+Colombia,Peru,1.46,0.73
+Colombia,Uruguay,1.45,1.25
+Peru,Egypt,2.0,3.0
+Peru,Morocco,2.0,3.0
+Peru,Nigeria,2.0,3.0
+Peru,Senegal,1.0,3.0
+Peru,Tunisia,3.0,3.0
+Peru,Australia,2.0,3.0
+Peru,Iran,3.0,3.0
+Peru,Japan,0.8,0.8
+Peru,Korea Republic,2.0,3.0
+Peru,Saudi Arabia,2.0,3.0
+Peru,Belgium,1.0,3.0
+Peru,Croatia,1.0,3.0
+Peru,Denmark,1.0,3.0
+Peru,England,1.0,3.0
+Peru,France,1.0,3.0
+Peru,Germany,1.0,3.0
+Peru,Iceland,3.0,3.0
+Peru,Poland,1.0,3.0
+Peru,Portugal,1.0,3.0
+Peru,Russia,2.0,3.0
+Peru,Serbia,2.0,3.0
+Peru,Spain,1.0,3.0
+Peru,Sweden,2.0,3.0
+Peru,Switzerland,1.0,3.0
+Peru,Costa Rica,2.0,0.4
+Peru,Mexico,1.0,1.4
+Peru,Panama,1.0,1.0
+Peru,Argentina,0.63,1.74
+Peru,Brazil,0.42,1.67
+Peru,Colombia,0.73,1.46
+Peru,Uruguay,0.88,1.46
+Uruguay,Egypt,2.0,1.0
+Uruguay,Morocco,2.0,1.0
+Uruguay,Nigeria,2.0,1.0
+Uruguay,Senegal,1.0,1.0
+Uruguay,Tunisia,3.0,1.0
+Uruguay,Australia,1.14,0.57
+Uruguay,Iran,3.0,1.0
+Uruguay,Japan,2.0,1.0
+Uruguay,Korea Republic,1.67,0.33
+Uruguay,Saudi Arabia,2.0,1.0
+Uruguay,Belgium,1.0,1.0
+Uruguay,Croatia,1.0,1.0
+Uruguay,Denmark,1.0,1.0
+Uruguay,England,1.25,1.0
+Uruguay,France,0.2,0.0
+Uruguay,Germany,1.4,3.4
+Uruguay,Iceland,3.0,1.0
+Uruguay,Poland,1.0,0.67
+Uruguay,Portugal,1.0,1.0
+Uruguay,Russia,2.0,1.0
+Uruguay,Serbia,2.0,1.0
+Uruguay,Spain,0.83,1.83
+Uruguay,Sweden,2.0,1.0
+Uruguay,Switzerland,1.0,1.0
+Uruguay,Costa Rica,2.0,1.56
+Uruguay,Mexico,1.15,1.38
+Uruguay,Panama,3.0,1.0
+Uruguay,Argentina,0.89,1.56
+Uruguay,Brazil,1.06,1.61
+Uruguay,Colombia,1.25,1.45
+Uruguay,Peru,1.46,0.88
