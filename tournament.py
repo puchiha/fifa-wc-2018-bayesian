@@ -84,8 +84,13 @@ for i, group in enumerate(groups):
         prob = group_results[winner, runner]
         initial_bracket[i,0,winner] += prob
         initial_bracket[i,1,runner] += prob
-#shift so that the appropriate teams play each other
-initial_bracket[:,1,:] = np.roll(initial_bracket[:,1,:], 1, axis=0)
+#reorder so that the appropriate teams play each other
+#see get_wl.py for how groups should initially be ordered
+#0 is group A, 1 is group B etc.
+winners_order = [0,2,4,6,1,3,5,7]
+runners_order = [1,3,5,7,0,2,4,6]
+initial_bracket[:,0,:] = initial_bracket[winners_order, 0, :]
+initial_bracket[:,1,:] = initial_bracket[runners_order, 1, :]
 
 #recursively compute beliefs about next level of bracket
 #format: winner of groups 0-1 plays winner of 2-3, winner of 3-4 plays 4-5, etc
