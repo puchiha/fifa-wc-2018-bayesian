@@ -92,11 +92,12 @@ initial_bracket[:,1,:] = np.roll(initial_bracket[:,1,:], 1, axis=0)
 def next_level(bracket):
     m, _, n = bracket.shape
     new_bracket = np.zeros((m/2, 2, n))
-    for g, p1, p2 in np.ndindex(bracket.shape):
+    for g, p1, p2 in np.ndindex((m,n,n)):
         #odds vs evens
         ngi = g % 2
-        new_bracket[g/2, ngi, p1] += wl[p1,p2] * bracket[g,p1,p2]
-        new_bracket[g/2, ngi, p2] += wl[p2,p1] * bracket[g,p1,p2]
+        game_prob = bracket[g, 0, p1] * bracket[g, 1, p2]
+        new_bracket[g/2, ngi, p1] += wl[p1,p2] * game_prob
+        new_bracket[g/2, ngi, p2] += wl[p2,p1] * game_prob
     #TODO: normalize at each level? Or just at the end?
     new_bracket = new_bracket / np.sum(new_bracket, axis=-1)[:,:, np.newaxis]
     return new_bracket
