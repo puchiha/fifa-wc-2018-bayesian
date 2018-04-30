@@ -32,15 +32,25 @@ def to_wl_ids(outcome, ids):
 #teams will be identified by row #s
 #this should be a 32x32 matrix of win-loss probs
 #winloss[a,b] = P(a beats b)
-wl = np.random.rand(32*32).reshape((32,32))
-wl = np.triu(wl,1)
-wl += np.tril(1-wl.T, -1)
+# wl = np.random.rand(32*32).reshape((32,32))
+# wl = np.triu(wl,1)
+# wl += np.tril(1-wl.T, -1)
+
+#import prob matrix from machine learning stage
+from get_probs import prob_matrix as wl
 
 #group stage
 #assign team ids to groups
-groups = []
-for start_id in range(0,32,4):
-    groups.append(np.asarray(range(start_id, start_id+4)))
+groups = [
+    [19, 9, 0, 31],
+    [18, 21, 1, 6],
+    [14, 5, 30, 12],
+    [27, 16, 11, 2],
+    [28, 23, 24, 20],
+    [15, 25, 22, 8],
+    [10, 26, 4, 13],
+    [17, 3, 29, 7]
+]
 #group results is nxn where group_result[i,j] -> i winner, j runner up
 group_results = np.zeros((32,32))
 
@@ -119,8 +129,12 @@ for p1, p2 in np.ndindex((32,32)):
     winner_probs[p2] += game_prob * wl[p2,p1]
 #normalize
 winner_probs = winner_probs/np.sum(winner_probs)
+prob_indices = []
 for i in range(32):
-    print i, winner_probs[i]
+    prob_indices.append((winner_probs[i], i))
+for prob, i in sorted(prob_indices):
+    print i, prob
+
 
 
 
