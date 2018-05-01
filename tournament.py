@@ -29,6 +29,9 @@ def to_wl_ids(outcome, ids):
     loser_mat, winner_mat = np.meshgrid(group, group)
     return (winner_mat[outcome==1], loser_mat[outcome==1])
 
+def _mapper(ids):
+    qualified_countries = ['Egypt', 'Morocco', 'Nigeria', 'Senegal', 'Tunisia', 'Australia', 'Iran', 'Japan', 'Korea Republic', 'Saudi Arabia', 'Belgium', 'Croatia', 'Denmark', 'England', 'France', 'Germany', 'Iceland', 'Poland', 'Portugal', 'Russia', 'Serbia', 'Spain', 'Sweden', 'Switzerland', 'Costa Rica', 'Mexico', 'Panama', 'Argentina', 'Brazil', 'Colombia', 'Peru', 'Uruguay']
+    return [qualified_countries[i] for i in ids]
 #teams will be identified by row #s
 #this should be a 32x32 matrix of win-loss probs
 #winloss[a,b] = P(a beats b)
