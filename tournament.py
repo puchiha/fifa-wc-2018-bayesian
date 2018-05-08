@@ -135,9 +135,17 @@ winner_probs = winner_probs/np.sum(winner_probs)
 prob_indices = []
 for i in range(32):
     prob_indices.append((winner_probs[i], i))
+l = []
+p = []
 for prob, i in sorted(prob_indices):
     print i, prob
-
+    l.append(i)
+    p.append(prob)
+from decimal import Decimal
+#print _mapper(l)
+for prob, c in zip(p, _mapper(l)):
+    #print('%s & %.2e \%\\\\', c, float(prob.round(8))*100.0)
+    print c, ' & ' , "{:.4E}".format(Decimal(float(prob.round(8))*100.0)), '\% \\\\'
 
 
 

@@ -9,9 +9,11 @@ matchdata = pd.read_csv('data/WC18_competition_stats.csv')
 data = matchdata.iloc[:, range(1,11)]
 targets = matchdata.iloc[:, -1]
 
+print data.head(1)
+print targets.head(1)
 gnb = GaussianNB()
 model = gnb.fit(data, targets)
-
+print model
 prob_matrix = np.zeros((32,32))
 #For each pair of teams, find predicted label, convert to probability.
 
@@ -30,3 +32,6 @@ for i in range(0,32):
 
         prob_matrix[i,j] = .5 * probs[0,1] + probs[0,2]
         prob_matrix[(j,i)] = .5 * probs[0,1] + probs[0,0]
+print point
+print df
+#print prob_matrix
