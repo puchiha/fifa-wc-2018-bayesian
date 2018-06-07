@@ -47,3 +47,7 @@ The simulation consistently resulted in France with the highest probability to w
 | Spain				| 14.0985860463 	|    
 | France			| 35.9358452608 	|    
 
+
+**Results for the group stage  below -- Fill in the scores yourself!**
+
+![Alt text](https://raw.githubusercontent.com/puchiha/crime_data_analysis/master/517a_crime_vancouver/plots/dist_crimes_per_day.png)
