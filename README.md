@@ -13,6 +13,7 @@ The simulation consistently resulted in France with the highest probability to w
 
 #### RESULTS
 **Country**			**Win Prob**
+
 Panama			3.40782532144e-21 %    
 Tunisia			3.33870889796e-17 %    
 Costa Rica			1.06054606769e-15 %    
